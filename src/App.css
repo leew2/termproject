@@ -1,0 +1,18 @@
+/**
+  Wang Lee
+  Created 3/26/2023
+  Altered 4/02/2023
+ */
+
+.App {
+  text-align: center;
+}
+body{
+  background-color: rgb(1, 1, 26);
+}
+
+.createAccount{
+  background-color: aliceblue;
+  margin: 10%;
+}
+

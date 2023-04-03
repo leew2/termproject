@@ -1,0 +1,17 @@
+/**
+ *  Wang Lee
+ *  Created 4/02/2023
+ *
+ */
+
+.body{
+    min-height: 400px;
+    height: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color:aliceblue;
+}
+
+.welcome{
+    text-align: center;
+}

@@ -1,0 +1,25 @@
+/**
+ *  Wang Lee
+ *  Created 4/02/2023
+ *
+ */
+
+.userForm{
+    height: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color:aliceblue;
+
+}
+
+.submitbtn{
+    text-align: center;
+    padding: 10px;
+
+}
+
+.input{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

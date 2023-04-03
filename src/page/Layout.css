@@ -1,0 +1,33 @@
+/**
+ *  Wang Lee
+ *  Created 4/02/2023
+ *
+ */
+
+.headerCSS{
+    background-color: aliceblue;
+    margin: 5% 5% 0% 5%;  /*(Top) (Right) (Bottom) (Left)*/
+    text-align: center;
+    border: 2px solid gold;
+    border-bottom: 2px solid rgb(1, 1, 26);
+    background-color: rgb(1, 1, 26);
+    color: gold;
+}
+
+.nav-row {
+    border-top: 2px solid gold;
+    text-align: center;
+    height: 50px;
+    padding-top: 2.5%;
+    background-color: aliceblue;
+}
+
+.Page{
+    margin: 5%;
+
+}
+.nav-link{
+    padding-left: 10%;
+    padding-right: 10%;
+    border: 2px solid black;
+}
