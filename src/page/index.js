@@ -4,8 +4,8 @@
  *
  */
 
-import React, {Component, useState} from 'react';
-import './index.css';
+import React, {Component} from 'react';
+import './cssLib/index.css';
 
 function MainPage(){
     return (
@@ -24,7 +24,6 @@ export default MainPage;
 class Welcome extends Component {
     constructor(props) {
         super();
-        {/**  Creating State  */}
         this.state = {
             message:'Welcome To My Concordia Page'
         }

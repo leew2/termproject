@@ -1,11 +1,11 @@
 /**
  *  Wang Lee
  *  Created 4/02/2023
- *
+ *  alt     4/9/2023
  */
 
 import React from 'react';
-import "./createAccount.css";
+import "./cssLib/createAccount.css";
 
 export default function CreateAccountPage() {
     return (

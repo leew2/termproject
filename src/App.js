@@ -8,17 +8,18 @@
 /**
  *  Wang Lee
  *  Created 3/26/2026
- *  Altered 4/2/2023
+ *  Altered 4/9/2023
  */
 
 
 
 import './App.css';
-import "./page/Layout.css";
+import "./page/cssLib/Layout.css";
 import {BrowserRouter, Link, Outlet, Route, Routes} from "react-router-dom";
 import MainPage from "./page";
 import StorePage from "./page/store";
 import CreateAccountPage from "./page/createAccount";
+import ItemPage from "./page/item";
 
 function Layout() {
     return (
@@ -28,6 +29,9 @@ function Layout() {
                 <div className={'nav-row'}>
                     <Link className={'nav-link'} to={'/'} > Home </Link>
                     <Link className={'nav-link'} to={'/store'} > Store </Link>
+
+                    <Link className={'nav-link'} to={'/item'} > Item </Link>
+
                     <Link className={'nav-link'} to={'/createAccount'} > Create Account </Link>
 
                 </div>
@@ -48,6 +52,7 @@ export default function App() {
                 <Route path="/" element={<Layout />}>
                     <Route index element={<MainPage />} />
                     <Route path="/store" element={<StorePage />} />
+                    <Route path={"/item"} element={<ItemPage />} />
                     <Route path="/createAccount" element={<CreateAccountPage />} />
                     <Route path="*" element={<NoPage />} />
                 </Route>

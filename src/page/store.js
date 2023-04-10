@@ -12,7 +12,7 @@
  */
 
 import React, {Component, useState} from 'react';
-import './store.css';
+import './cssLib/store.css';
 import logo from "./img/cspbook.png";
 function StorePage() {
     return (
@@ -77,7 +77,7 @@ const SearchBar = () => {
         // changing the state to the name of the key
         // which is pressed
 
-        if (event.key == "Enter"){
+        if (event.key === "Enter"){
             setState("Searched Result")
         }
     };
