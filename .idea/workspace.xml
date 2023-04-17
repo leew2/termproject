@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e8b23a2-39d6-42d5-861a-ae65101e4c9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/page/cssLib/itemAmount.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/itemAmount.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/cssLib/Layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/cssLib/Layout.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +96,7 @@
       <workItem from="1681094930694" duration="73000" />
       <workItem from="1681537192703" duration="1759000" />
       <workItem from="1681629873807" duration="2510000" />
-      <workItem from="1681683609708" duration="6033000" />
+      <workItem from="1681683609708" duration="6643000" />
     </task>
     <servers />
   </component>
