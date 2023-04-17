@@ -20,6 +20,7 @@ import MainPage from "./page";
 import StorePage from "./page/store";
 import CreateAccountPage from "./page/createAccount";
 import ItemPage from "./page/item";
+import ItemAmount from "./page/itemAmount";
 
 function Layout() {
     return (
@@ -31,7 +32,7 @@ function Layout() {
                     <Link className={'nav-link'} to={'/store'} > Store </Link>
 
                     <Link className={'nav-link'} to={'/item'} > Item </Link>
-
+                    <Link className={'nav-link'} to={'/itemAmount'} > Item Amount</Link>
                     <Link className={'nav-link'} to={'/createAccount'} > Create Account </Link>
 
                 </div>
@@ -53,6 +54,7 @@ export default function App() {
                     <Route index element={<MainPage />} />
                     <Route path="/store" element={<StorePage />} />
                     <Route path={"/item"} element={<ItemPage />} />
+                    <Route path={"/itemAmount"} element={<ItemAmount />} />
                     <Route path="/createAccount" element={<CreateAccountPage />} />
                     <Route path="*" element={<NoPage />} />
                 </Route>
