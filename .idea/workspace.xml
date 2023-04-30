@@ -4,50 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e8b23a2-39d6-42d5-861a-ae65101e4c9d" name="Changes" comment="week 6 adding database user">
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/.idea/finalprojectremake.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/.idea/jsLinters/eslint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectremake/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../temptest/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../temptest/.idea/temptest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../temptest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../temptest/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../temptest/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reference.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/Layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/createAccount.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/createAccount.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/item.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/itemAmount.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/itemAmount.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/store.js" afterDir="false" />
-    </list>
+    <list default="true" id="5e8b23a2-39d6-42d5-861a-ae65101e4c9d" name="Changes" comment="week 7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -157,7 +114,7 @@
       <workItem from="1682818292043" duration="13000" />
       <workItem from="1682818607842" duration="230000" />
       <workItem from="1682818849616" duration="2289000" />
-      <workItem from="1682892860600" duration="4741000" />
+      <workItem from="1682892860600" duration="5064000" />
     </task>
     <task id="LOCAL-00001" summary="week 5">
       <created>1681690465889</created>
@@ -166,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681690465889</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="week 7">
+      <created>1682897714347</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682897714347</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +150,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="week 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 5" />
+    <MESSAGE value="week 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 7" />
   </component>
 </project>
