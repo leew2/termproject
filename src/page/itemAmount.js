@@ -1,13 +1,7 @@
 /**
- *  Reference
- *  https://redux.js.org/introduction/getting-started
- *  https://legacy.reactjs.org/docs/hooks-intro.html
- */
-
-/**
  *  Wang Lee
- *  4/15/2023
- *
+ *  Created 4/15/2023
+ *  Altered 4/29/2023
  */
 
 import React, {useState, useEffect, useContext, Component} from "react";
@@ -89,7 +83,7 @@ function Amount(){
     }
     return<>
         <div className={'item-display'}>
-            <img src={logo} />
+            <img src={logo} alt={'image of book with C S P written on it'}/>
             <p> Amount in Store: {store.getState().value}</p>
             <p> Amount you want: {count}</p>
         </div>

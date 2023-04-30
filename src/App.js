@@ -1,17 +1,8 @@
 /**
- * Reference:
- * https://www.geeksforgeeks.org/how-to-create-a-multi-page-website-using-react-js/#
- * https://www.w3schools.com/react/react_router.asp
- *
- */
-
-/**
  *  Wang Lee
  *  Created 3/26/2026
- *  Altered 4/9/2023
+ *  Altered 4/29/2023
  */
-
-
 
 import './App.css';
 import "./page/cssLib/Layout.css";
@@ -34,7 +25,6 @@ function Layout() {
                 <div className={'nav-row'}>
                     <Link className={'nav-link'} to={'/'} > Home </Link>
                     <Link className={'nav-link'} to={'/store'} > Store </Link>
-
                     <Link className={'nav-link'} to={'/item'} > Item </Link>
                     <Link className={'nav-link'} to={'/itemAmount'} > Item Amount</Link>
                     <Link className={'nav-link'} to={'/createAccount'} > Create Account </Link>
@@ -66,3 +56,4 @@ export default function App() {
         </BrowserRouter>
     );
 }
+module.exports = App;

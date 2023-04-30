@@ -26,7 +26,7 @@ function SighUpForm(){
             </form>
         </>
     );
-};
+}
 /**
  *  This is example of passing parents to child using function
  */
@@ -40,9 +40,9 @@ export function UserInput({display}, {name}){
             </div>
         </>
     );
-};
+}
 function SubmitBtn() {
     return(
         <div className="submitbtn" ><button>Submit</button></div>
     );
-};
+}

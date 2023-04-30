@@ -15,7 +15,7 @@ function MainPage(){
             </div>
         </>
     );
-};
+}
 export default MainPage;
 
 /**----------------------------------------------------------------------------------------------
@@ -23,7 +23,7 @@ export default MainPage;
  */
 class Welcome extends Component {
     constructor(props) {
-        super();
+        super(props);
         this.state = {
             message:'Welcome To My Concordia Page'
         }

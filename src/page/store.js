@@ -1,14 +1,7 @@
 /**
- *  Reference
- *  https://upmostly.com/tutorials/how-to-react-onkeypress-event
- *  https://www.geeksforgeeks.org/how-to-use-onkeypress-event-in-reactjs/
- *
- */
-
-/**
  *  Wang Lee
  *  Created 4/02/2023
- *
+ *  Altered 4/29/2023
  */
 
 import React, {Component, useState} from 'react';

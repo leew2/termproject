@@ -1,6 +1,7 @@
 /**
  *  Wang Lee
- *  4/8/2023
+ *  Created 4/08/2023
+ *  Altered 4/30/2023
  */
 import {Component} from "react";
 import './cssLib/index.css';
@@ -63,7 +64,7 @@ class ItemImage extends Component{
         </>
     }
 }
-
+module.exports = ItemImage;
 
 /**  Other Version Of The Image  */
 class ItemAlt extends ItemImage{
